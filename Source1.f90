@@ -1,3 +1,4 @@
+! Privet!
 character header(1:4)
 integer*4 id, userid
 character*100000 data
