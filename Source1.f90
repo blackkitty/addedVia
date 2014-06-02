@@ -1,4 +1,4 @@
-! Privet! newnew
+! Privet! сукаработай
 character header(1:2)
 integer*4 id, userid, tmp
 !character*10 userid
